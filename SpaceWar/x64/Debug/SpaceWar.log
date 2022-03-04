@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\ddele\Desktop\Semester 5\AdvComProg\Projects\DDeleonCPPProject3_1A\SpaceWar\main.cpp(16,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ddele\Desktop\Semester 5\AdvComProg\Projects\DDeleonCPPProject3_1A\SpaceWar\main.cpp(55,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ddele\Desktop\Semester 5\AdvComProg\Projects\DDeleonCPPProject3_1A\SpaceWar\main.cpp(62,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ddele\Desktop\Semester 5\AdvComProg\Projects\DDeleonCPPProject3_1A\SpaceWar\main.cpp(209,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ddele\Desktop\Semester 5\AdvComProg\Projects\DDeleonCPPProject3_1A\SpaceWar\main.cpp(209,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ddele\Desktop\Semester 5\AdvComProg\Projects\DDeleonCPPProject3_1A\SpaceWar\main.cpp(370,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SpaceWar.vcxproj -> C:\Users\ddele\Desktop\Semester 5\AdvComProg\Projects\DDeleonCPPProject3_1A\SpaceWar\x64\Debug\SpaceWar.exe
