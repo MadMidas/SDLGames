@@ -1,0 +1,6 @@
+﻿  coin.cpp
+  enemy.cpp
+  main.cpp
+C:\Users\ddele\Desktop\Semester 5\AdvComProg\Projects\DDeleonCPPProject3_1C\SDLGame3\main.cpp(40,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  SDLGame3.vcxproj -> C:\Users\ddele\Desktop\Semester 5\AdvComProg\Projects\DDeleonCPPProject3_1C\SDLGame3\x64\Debug\SDLGame3.exe
