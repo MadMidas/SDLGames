@@ -1,0 +1,5 @@
+C:\Users\ddele\Desktop\Semester 5\AdvComProg\Assignments\DDeleonCPPA3_11\SDLGame2\x64\Debug\SDLGame2.exe
+C:\Users\ddele\Desktop\Semester 5\AdvComProg\Assignments\DDeleonCPPA3_12\SDLGame2\x64\Debug\SDLGame2.exe
+C:\Users\ddele\Desktop\Semester 5\AdvComProg\Assignments\DDeleonCPPA3_13\SDLGame2\x64\Debug\SDLGame2.exe
+C:\Users\ddele\Desktop\Semester 5\AdvComProg\Assignments\DDeleonCPPA3_14\SDLGame2\x64\Debug\SDLGame2.exe
+C:\Users\ddele\Desktop\Semester 5\AdvComProg\Projects\DDeleonCPPProject3_1B\SDLGame2\x64\Debug\SDLGame2.exe
